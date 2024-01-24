@@ -1,0 +1,30 @@
+{ "videos":
+[
+    {
+        "id": 1,
+        "titulo": "SEVEN",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrtt_k5YHO6TRRZFHFuah6pMcamOBb_Dh-mTDRz-K8dE7vbFDY",
+        "link": "https://www.youtube.com/embed/znmZoVkCjpI?si=3-OeJcCIamxcPyh8"
+        
+    },
+    {
+        "id": 2,
+        "titulo": "Jovens Titãs: Missão Tóquio",
+        "capa": "https://m.media-amazon.com/images/M/MV5BZGM4ZTNmMDMtYWJkYy00OThkLTllNzQtMjBmYjc4ZGZhMTIyXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_.jpg",
+        "link": "https://www.youtube.com/embed/TNZrUsj4oCU?si=LtgAncyw3xwkfRvc"
+    },
+    {
+        "id": 3,
+        "titulo": "O Iluminado",
+        "capa": "https://s3.amazonaws.com/img.iluria.com/product/921644/1746652/450xN.jpg",
+        "link": "https://www.youtube.com/embed/Ehx1UP9jEuY?si=JyXt9eNh7Kvz50AM"
+    },
+    {
+        "id": 4,
+        "titulo": "Missão Impossível: Protocolo Fantasma",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/a/ad/MissionImpossible4.jpg?20111208224209",
+        "link": "https://www.youtube.com/embed/vrBVrL2SAvA?si=Hu1qwNSGovXaGKHn"
+    }
+
+]           
+}
